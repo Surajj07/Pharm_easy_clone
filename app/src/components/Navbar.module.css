@@ -1,0 +1,75 @@
+.navbar {
+  background-color: rgb(16, 132, 126);
+  position: sticky; 
+  width: 101%;
+  margin-top: -10px;
+  margin-left: -4px;
+}
+.container_navbar {
+  display: flex;
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+*:focus {
+  outline: none;
+}
+.inputBox {
+  background-color: white;
+  padding: 6px;
+  width: 60%;
+  display: flex;
+  margin-left: 50px;
+  border-radius: 5px;
+}
+.main_logo {
+  width: 10%;
+}
+
+.pincode {
+  width: 24%;
+  border: none;
+  margin-left: 10px;
+}
+.searchbar {
+  width: 67%;
+  margin-left: 10px;
+  border: none;
+}
+.straightbar {
+  width: 1px;
+  background: rgb(232, 228, 228);
+  margin-left: 10px;
+}
+.Container2_navbar {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 10px 0 0 20%;
+}
+.navbar_products {
+  display: flex;
+  color: white;
+  font-family: sans-serif;
+  /* margin:10px auto; */
+}
+.products_line {
+  margin-left: 25px;
+  font-size: 13px;
+  display: flex;
+  cursor: pointer;
+}
+.navbar_products2 {
+  display: flex;
+  color: white;
+  font-family: sans-serif;
+  margin-right: 10%;
+}
+.side_logo {
+  height: 30px;
+  margin-top: 10px;
+}
+.specialLine{
+  margin-top: 12px;
+}
