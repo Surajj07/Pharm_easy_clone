@@ -10,7 +10,7 @@ Original website link : https://pharmeasy.in/
 
 GitHub repository link: https://github.com/Surajj07/Pharm_easy_clone.git
 
-Netlify Link: https://pharmeasy-clone-website.netlify.app/
+Netlify Link: https://gregarious-longma-be040d.netlify.app
 
 ###Thumbnail
 ![thumbnail](https://github.com/ahmadparvej/pharmeasy-clone/blob/main/app/src/Thumbnail/screenshot.png)
