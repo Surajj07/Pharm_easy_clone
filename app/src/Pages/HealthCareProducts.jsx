@@ -2,7 +2,7 @@ import React from 'react'
 import { getData } from '../Redux/Products/Action'
 import { useDispatch, useSelector } from 'react-redux'
 import { ProdCategory } from "./ProdCategory";
-import styled from 'styled-components'
+import styled from 'styled-components';
 const StyledProdList = styled.div`
     display:grid;
     grid-template-columns:repeat(3,1fr);
